@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employes": [
+    {
+      "FirstName": "abhishek",
+      "LastName": "gupta",
+      "Email": "abhi@gmail.com",
+      "DOB": "1993-06-08T18:30:00.000Z",
+      "Qualifaction": "B.E",
+      "Company": "acaieufw8e",
+      "Experience": 3,
+      "Package": 3,
+      "Gender": "male",
+      "id": 4
+    },
+    {
+      "FirstName": "xby",
+      "LastName": "jasjdnjansd",
+      "Email": "nasidj@gamil.com",
+      "DOB": "2023-07-18T18:30:00.000Z",
+      "Qualifaction": "others",
+      "Company": "sdsef",
+      "Experience": null,
+      "Package": 4,
+      "Gender": "male",
+      "id": 5
+    },
+    {
+      "FirstName": "sjfion",
+      "LastName": "kjofn",
+      "Email": "sfnsjne",
+      "DOB": "2020-07-28T18:30:00.000Z",
+      "Qualifaction": "B.tech",
+      "Company": "asfczfcx",
+      "Experience": 1,
+      "Package": 4,
+      "Gender": "male",
+      "id": 6
+    },
+    {
+      "FirstName": "ashok",
+      "LastName": "vishwakarma",
+      "Email": "ashok@gmail.com",
+      "DOB": "2000-05-24T18:30:00.000Z",
+      "Qualifaction": "B.E",
+      "Company": "kandin",
+      "Experience": 1,
+      "Package": 4,
+      "Gender": "male",
+      "id": 7
+    },
+    {
+      "FirstName": "knasdn",
+      "LastName": "",
+      "Email": "",
+      "DOB": "",
+      "Qualifaction": "",
+      "Company": "",
+      "Experience": "",
+      "Package": "",
+      "Gender": "",
+      "id": 8
+    },
+    {
+      "FirstName": "abhi",
+      "LastName": "kansd",
+      "Email": "kndn",
+      "DOB": "2023-07-19T18:30:00.000Z",
+      "Qualifaction": "B.tech",
+      "Company": "asdef",
+      "Experience": 3,
+      "Package": 3,
+      "Gender": "male",
+      "id": 9
+    },
+    {
+      "FirstName": "abhishek",
+      "LastName": "gupta",
+      "Email": "abhi@gmail.com",
+      "DOB": "1993-06-08T18:30:00.000Z",
+      "Qualifaction": "B.E",
+      "Company": "acaieufw8e",
+      "Experience": 3,
+      "Package": 3,
+      "Gender": "male",
+      "id": 10
+    },
+    {
+      "FirstName": "abhishek",
+      "LastName": "gupta",
+      "Email": "abhi@gmail.com",
+      "DOB": "1993-06-08T18:30:00.000Z",
+      "Qualifaction": "B.E",
+      "Company": "acaieufw8e",
+      "Experience": 3,
+      "Package": 3,
+      "Gender": "male",
+      "id": 11
+    }
+  ]
+}
