@@ -22,6 +22,8 @@ import { HttpClientModule } from '@angular/common/http';
 import {MatPaginator, MatPaginatorModule} from '@angular/material/paginator';
 import {MatSort, MatSortModule} from '@angular/material/sort';
 import {MatTableDataSource, MatTableModule} from '@angular/material/table';
+import { ParamComponent } from './param/param.component';
+import { QueryparamComponent } from './queryparam/queryparam.component';
 
 
 
@@ -31,6 +33,8 @@ import {MatTableDataSource, MatTableModule} from '@angular/material/table';
     AppComponent,
     DashboardComponent,
     EmppDetailComponent,
+    ParamComponent,
+    QueryparamComponent,
     
   ],
   imports: [

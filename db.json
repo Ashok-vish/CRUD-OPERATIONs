@@ -18,8 +18,8 @@
   },
   "employes": [
     {
-      "FirstName": "abhishek",
-      "LastName": "gupta",
+      "FirstName": "abhi",
+      "LastName": "amsdo",
       "Email": "abhi@gmail.com",
       "DOB": "1993-06-08T18:30:00.000Z",
       "Qualifaction": "B.E",
@@ -42,18 +42,6 @@
       "id": 5
     },
     {
-      "FirstName": "sjfion",
-      "LastName": "kjofn",
-      "Email": "sfnsjne",
-      "DOB": "2020-07-28T18:30:00.000Z",
-      "Qualifaction": "B.tech",
-      "Company": "asfczfcx",
-      "Experience": 1,
-      "Package": 4,
-      "Gender": "male",
-      "id": 6
-    },
-    {
       "FirstName": "ashok",
       "LastName": "vishwakarma",
       "Email": "ashok@gmail.com",
@@ -64,18 +52,6 @@
       "Package": 4,
       "Gender": "male",
       "id": 7
-    },
-    {
-      "FirstName": "knasdn",
-      "LastName": "",
-      "Email": "",
-      "DOB": "",
-      "Qualifaction": "",
-      "Company": "",
-      "Experience": "",
-      "Package": "",
-      "Gender": "",
-      "id": 8
     },
     {
       "FirstName": "abhi",
